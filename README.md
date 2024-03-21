@@ -6,7 +6,7 @@ The Brush Calligraphy Stroke Segmentation Dataset (BCSS) is a comprehensive data
 
 ## Dataset Structure
 
-![dataset](.\src\dataset.png)
+![dataset](src/dataset.png)
 
 BCSS consists of 1,278 images with 10,301 annotated strokes, divided into the following subsets:
 
