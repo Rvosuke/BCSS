@@ -11,7 +11,7 @@ The Brush Calligraphy Stroke Segmentation Dataset (BCSS) is a comprehensive data
 BCSS consists of 1,322 images with 10,653 annotated strokes, divided into the following subsets:
 
 - Training and Validation Set: 1,022 images from the E3C dataset.
-- External Testing Set: 256 images, including:
+- External Testing Set: 300 images, including:
   - 90 images from E3C dataset, containing character types unseen in the training and validation sets.
   - 113 handwritten images extracted from the CCSE-W dataset[^2].
   - 97 images covering different styles of Chinese characters, including regular printed and brush calligraphy such as Clerical Script.
